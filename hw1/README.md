@@ -8,5 +8,7 @@
 
 `plot-results.ipynb` - plot results from pickle file above (as in the PDF report)
 
+`grid_results.csv` - tabular data with results from all 128 setups described in the report
+
 
 Examples of correct/incorrect predictions are written in homework1.ipynb
